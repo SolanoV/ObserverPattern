@@ -33,3 +33,4 @@
 
 ---
 ## UML Class Diagram
+![UML Class Diagram Observer Pattern](src/UMLCD_ObserverPattern.png)
